@@ -1,0 +1,24 @@
+a {
+    color: green;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    font-weight: bolder;
+}
+
+.top-img-container {
+    display: flex;
+    justify-content: center;
+}
+
+ol > li {
+    font-style: italic;
+}
+
+ul > li {
+    font-weight: bold;
+}
